@@ -22,12 +22,6 @@ This tool is designed for workflows like:
 ### Drag the crop boundary
 ![Drag Crop Boundary](docs/images/drag-crop.gif)
 
-### Before / After
-<p align="center">
-  <img src="docs/images/before.png" alt="Before" width="45%">
-  <img src="docs/images/after.png" alt="After" width="45%">
-</p>
-
 ---
 
 ## Why this tool?
